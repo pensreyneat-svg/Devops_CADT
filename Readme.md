@@ -1,5 +1,5 @@
 Hello Team Devops CADT.
 1.MOT PHUM
-2.SOR VEASNA
+2.Sor Veasna
 3.KUN TOUCH
 4.PEN SREYNET
